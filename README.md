@@ -17,21 +17,39 @@ Use the movement controls to steer the boat through the water.
 The player can:
 
 Move forward and backward
-Turn and pivot the boat
-Collect lanterns around the map
-Avoid alligators and sandbars
+
+-Turn and pivot the boat
+
+-Collect lanterns around the map
+
+-Avoid alligators and sandbars
+
 Features
-Physics-based boat movement
-Buoyancy system
-Dynamic wave motion affecting the boat
-Lantern collection objective
-Alligator hazard system
-Sandbar obstacles
-Top-down/ 3rd person camera
-Title/menu screen
+
+-Physics-based boat movement
+
+-Buoyancy system
+
+-Dynamic wave motion affecting the boat
+
+-Lantern collection objective
+
+-Alligator hazard system
+
+-Sandbar obstacles
+
+-Top-down/ 3rd person camera
+
+-Title/menu screen
+
 Extra Credit Features
-Custom Gloomy sky and background.
-VFX Boat Wake, and boat particle effects.
-3 Difficulties that scale.
-Shadow lighting for all of the objects.
-4 different waves that all meet and ebb and flow.
+
+-Custom Gloomy sky and background.
+
+-VFX Boat Wake, and boat particle effects.
+
+-3 Difficulties that scale.
+
+-Shadow lighting for all of the objects.
+
+-4 different waves that all meet and ebb and flow.
